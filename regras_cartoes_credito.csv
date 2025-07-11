@@ -1,0 +1,11 @@
+Bandeira,Prefixo(s) Inicial(is),Total de Dígitos,Observações
+Mastercard,"51–55, 2221–2720",16,Novos cartões usam faixa 2221–2720
+Visa,4,"13, 16",Mais comum: 16 dígitos; ainda existem cartões com 13
+American Express (Amex),"34, 37",15,Número de segurança tem 4 dígitos na frente
+Diners Club,"300–305, 36, 38–39",14,Alguns iniciam com 38/39 (Diners International)
+Discover,"6011, 622126–622925, 644–649, 65",16,Muito comum nos EUA
+EnRoute,"2014, 2149",15,"Cartão antigo, agora geralmente não emitido"
+JCB,3528–3589,16,Emissão principalmente no Japão
+Voyager,8699,15,Cartão de frota (uso corporativo nos EUA)
+Hipercard,"384100, 384140, 384160, 606282, 637095",13–19,Comum no Brasil; pode variar bastante o número de dígitos
+Aura,50,16,Emissão brasileira; prefixo específico
